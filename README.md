@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-## web site `link frontchatapp-newgate-nija.vercel.app`
+## web site `frontchatapp-newgate-nija.vercel.app`
 
 ## Highlights
 
