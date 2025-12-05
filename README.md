@@ -38,3 +38,4 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ARCJET_KEY=your_arcjet_key
 ARCJET_ENV=development
+ # wdb site link frontchatapp-newgate-nija.vercel.app
